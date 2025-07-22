@@ -11,9 +11,10 @@
 
 <!-- Hits Badge (방문자 수 카운터) -->
 <a href="https://hits.seeyoufarm.com">
-  <img 
-    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwaterbom%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" 
-    alt="hits counter"/>
+  <img
+    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwaterbom%2Fwaterbom&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"
+    alt="hits counter" />
 </a>
 
 <!-- GitHub Stats Card (프로필 요약) -->
+<img src="https://github-readme-stats.vercel.app/api?username=waterbom&show_icons=true" alt="waterbom’s GitHub stats" />
