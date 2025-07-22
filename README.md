@@ -13,3 +13,6 @@
 
 <!-- GitHub Stats Card (프로필 요약) -->
 <img src="https://github-readme-stats.vercel.app/api?username=waterbom&show_icons=true" alt="waterbom’s GitHub stats" />
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waterbom&layout=compact&hide=Jupyter%20Notebook&langs_count=6)
